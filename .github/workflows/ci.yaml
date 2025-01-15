@@ -7,7 +7,7 @@ on:
     branches:
       - develop 
 jobs:
-  linting_job:
+  linting-job:
     runs-on: ubuntu-latest
     steps:
       - name: step1 of linting-job
